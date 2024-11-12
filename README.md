@@ -42,15 +42,15 @@ Please note that this project is released with a Contributor Code of Conduct. By
 
 ## **FAQ**
 
-**Q:** What is Project Title?
+**Q:** What is ImmoAsk Navigation bar?
 
-**A:** Project Title is a project that does something useful.
+**A:** ImmoAsk navigation bar is a project that does something useful.
 
 **Q:** How do I use ImmoAsk navigation bar?
 
 **A:** Follow the installation steps in the README file.
 
-**Q:** How do I contribute to Project Title?
+**Q:** How do I contribute to ImmoAsk Navigation bar?
 
 **A:** Follow the contributing guidelines in the README file.
 
