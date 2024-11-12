@@ -27,18 +27,13 @@ ImmoAsk navigation bar is released under the ISO License.
 
 ## **Authors and Acknowledgment**
 
-Project Title was created by **[Your Name](https://github.com/username)**.
+ImmoAsk Navigation bar was created by **[Kodjo Djidula Etse](https://github.com/christboss2)**.
 
 Additional contributors include:
 
-- **[Contributor Name](https://github.com/contributor-name)**
-- **[Another Contributor](https://github.com/another-contributor)**
+- **[Kossi ADANOU](https://github.com/AJKossi)**
 
 Thank you to all the contributors for their hard work and dedication to the project.
-
-## **Code of Conduct**
-
-Please note that this project is released with a Contributor Code of Conduct. By participating in this project, you agree to abide by its terms. See the **[CODE_OF_CONDUCT.md](https://www.blackbox.ai/share/CODE_OF_CONDUCT.md)** file for more information.
 
 ## **FAQ**
 
